@@ -1,1 +1,1 @@
-Add a Readme
+Repository for ALU Linux shell projects.
